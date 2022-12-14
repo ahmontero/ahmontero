@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Experience...
+
+- Senior Software Engineer @inspide
+- Senior Software Engineer @mrmilu
+- Head of backend development @glampinghub
+- Senior Software Engineer @ayesa
+
 ## Warning
 
 Most of my GitHub projects are old code hacked together and doesn't necessarily best represent me as an engineer :grin:
