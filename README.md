@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Warning
+
+Most of my GitHub projects are old code hacked together and doesn't necessarily best represent me as an engineer :grin:
+
 <!--
 **ahmontero/ahmontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
