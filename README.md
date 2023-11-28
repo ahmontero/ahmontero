@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/ycTVuMYzKu4vHg1OLG/giphy.gif)
-
 ### Experience...
 
 - Senior Software Engineer @inspide
