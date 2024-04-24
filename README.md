@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### Experience...
+- Senior Software Engineer @rindus
 - Principal Backend Engineer @circular.io
 - Senior Software Engineer @inspide
 - Senior Software Engineer @mrmilu
